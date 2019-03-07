@@ -13,6 +13,7 @@ Attempting to keep preferred tools/services/recommendations in one semi-organize
 - [CraftCMS](https://craftcms.com/) - 👍 PHP
 - [WordPress](https://wordpress.org/) - PHP
 - [Grav](https://getgrav.org/) - flat-file (PHP)
+- [RailsAdmin](https://github.com/sferik/rails_admin) - Rails/Ruby
 - [DjangoCMS](https://www.django-cms.org/en/) - Django/Python
 
 ### Satic Site Generators
